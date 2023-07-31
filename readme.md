@@ -12,7 +12,7 @@ Pypi package: https://pypi.org/project/pytest-analyzer/
 ## Usage
 1. Create project in https://app.testomat.io/
 2. Navigate to project settings and copy the project token
-![testomat.io project token](./assets/project_token.png)
+![testomat.io project token](./assets/testomat_api_key.png)
 3. Set project token to pytest.ini file as well as email and password of your testomat.io account
 ```ini
 [pytest]
